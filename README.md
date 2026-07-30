@@ -12,29 +12,39 @@
 
 ## 📌 About Me
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-👋 **Hi, I'm Sneha Murali!** 
+```python
+class SnehaMurali:
+    def __init__(self):
+        self.name = "Sneha Murali"
+        self.location = "Bangalore, Karnataka, India"
+        self.degree = "B.Tech, Computer Science & Engineering"
+        self.college = "Presidency University, Bangalore"
+        self.role = "Data Analytics Trainee @ Samsung Innovation Campus"
 
-I am a **Computer Science & Engineering** undergraduate at **Presidency University, Bangalore**.
+        self.stack = {
+            "languages": ["Python", "SQL"],
+            "libraries": ["Pandas", "NumPy", "Matplotlib",
+                          "Seaborn", "Scikit-learn"],
+            "bi_tools": ["Power BI", "DAX", "Power Query"],
+            "database": ["MySQL"],
+            "tools": ["Git", "GitHub", "VS Code", "Jupyter Notebook"]
+        }
 
-* 📍 **Based in:** Bangalore, Karnataka, India
-* 🛠️ **Tech Stack:** Python, SQL, Pandas, NumPy, Scikit-learn, Power BI, MySQL
-* 🎯 **Focus Areas:** Exploratory Data Analysis, Data Visualization, & Machine Learning
-* 💡 **Fun Fact:** I love turning messy, real-world datasets into clean, decision-ready dashboards!
+        self.currently_learning = [
+            "Advanced SQL", "Machine Learning", "Cloud Analytics"
+        ]
 
-> *"Leverage data to solve real-world problems, one dashboard at a time."*
+        self.fun_fact = "I enjoy turning messy, real-world datasets into clean, decision-ready dashboards."
 
-</td>
-<td width="35%" align="center" valign="middle">
+    def motto(self):
+        return "Leverage data to solve real-world problems, one dashboard at a time."
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
-</td>
-</tr>
-</table>
+sneha = SnehaMurali()
+print(sneha.motto())
+```
 
 <br clear="right"/>
 

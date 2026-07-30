@@ -12,39 +12,29 @@
 
 ## 📌 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="65%" valign="top">
 
-```python
-class SnehaMurali:
-    def __init__(self):
-        self.name = "Sneha Murali"
-        self.location = "Bangalore, Karnataka, India"
-        self.degree = "B.Tech, Computer Science & Engineering"
-        self.college = "Presidency University, Bangalore"
-        self.role = "Data Analytics Trainee @ Samsung Innovation Campus"
+👋 **Hi, I'm Sneha Murali!** 
 
-        self.stack = {
-            "languages": ["Python", "SQL"],
-            "libraries": ["Pandas", "NumPy", "Matplotlib",
-                          "Seaborn", "Scikit-learn"],
-            "bi_tools": ["Power BI", "DAX", "Power Query"],
-            "database": ["MySQL"],
-            "tools": ["Git", "GitHub", "VS Code", "Jupyter Notebook"]
-        }
+I am a **Computer Science & Engineering** undergraduate at **Presidency University, Bangalore**.
 
-        self.currently_learning = [
-            "Advanced SQL", "Machine Learning", "Cloud Analytics"
-        ]
+* 📍 **Based in:** Bangalore, Karnataka, India
+* 🛠️ **Tech Stack:** Python, SQL, Pandas, NumPy, Scikit-learn, Power BI, MySQL
+* 🎯 **Focus Areas:** Exploratory Data Analysis, Data Visualization, & Machine Learning
+* 💡 **Fun Fact:** I love turning messy, real-world datasets into clean, decision-ready dashboards!
 
-        self.fun_fact = "I enjoy turning messy, real-world datasets into clean, decision-ready dashboards."
+> *"Leverage data to solve real-world problems, one dashboard at a time."*
 
-    def motto(self):
-        return "Leverage data to solve real-world problems, one dashboard at a time."
+</td>
+<td width="35%" align="center" valign="middle">
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
-sneha = SnehaMurali()
-print(sneha.motto())
-```
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
@@ -70,17 +60,6 @@ print(sneha.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/snehamurali-07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=snehamurali-07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/snehamurali-07">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=snehamurali-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=snehamurali-07&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
 </div>
 
@@ -90,13 +69,6 @@ print(sneha.motto())
 
 <br/>
 
-## 🏆 Trophy Wall
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snehamurali-07&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
-</div>
-
-<br/>
 
 ## 💼 Work Experience
 

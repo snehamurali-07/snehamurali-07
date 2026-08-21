@@ -71,10 +71,6 @@ if __name__ == "__main__":
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=snehamurali-07&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=snehamurali-07&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
@@ -122,7 +118,6 @@ Bangalore, Karnataka</summary>
 | 🧠 | **Samsung Innovation Campus – Samsung R&D Institute** | Selected as core participant (2025) for advanced programming & industrial AI applications; built the Maternal Healthcare Trend Analysis project |
 | 🤖 | **Google GenAI Exchange Hackathon (2025)** | Built **Arogya-Mitra AI**, a Generative-AI-powered mental wellness assistant |
 | 📄 | **Published Research — IJCRT** | *"Detection and Mitigation of Denial of Service Attack Using Random Forest Method"* — International Journal of Creative Research Thoughts |
-| ✍️ | **Research in Progress (2024–Ongoing)** | *AI-Enabled Student Advising Assistant for Course Pathway Planning* — neuro-symbolic framework integrating Knowledge Graphs, predictive ML & constraint optimization for academic pathway planning |
 | 👩‍💻 | **Team Leadership** | Led university project teams, coordinating development and ensuring successful delivery of AI & software engineering projects |
 
 </div>
